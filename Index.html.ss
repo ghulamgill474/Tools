@@ -61,7 +61,7 @@
 </head>
 <body>
   <header>
-    <h1><a href="/img.compress-html" style="color: white; text-decoration: none;">Responsive Image Compression Tool</a></h1>
+    <h1><a href="/tools/img.compress-html" style="color: white; text-decoration: none;">Responsive Image Compression Tool</a></h1>
   </header>
   <main>
     <div class="tool">
